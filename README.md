@@ -8,11 +8,11 @@
 
 ## 🚀 **About Me**  
 
-- 🎓 **B.E. in Information Technology** at **PCCOER**  
-- 🔥 Passionate about building **efficient and scalable solutions**  
-- 🌐 Skilled in **web development**, **Android app development**, and **data analysis**  
-- 🤖 Exploring the exciting world of **AI and automation**  
-- 🖌️ Tech enthusiast with a creative edge, blending **technology with innovation**  
+🎓 **B.E. in Information Technology** 
+🔥 Passionate about building **efficient and scalable solutions**  
+🌐 Skilled in **web development**, **Android app development**, and **data analysis**  
+🤖 Exploring the exciting world of **AI and automation**  
+🖌️ Tech enthusiast with a creative edge, blending **technology with innovation**  
 
 ---
 
