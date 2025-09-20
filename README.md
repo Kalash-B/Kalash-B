@@ -1,78 +1,42 @@
-<h1 align="center">👋 Hey there! I'm <span style="color: #6a5acd;">Kalash Baldota</span></h1>
-
-<p align="center">  
-🎓 Information Technology Student | 💡 Problem Solver | 🚀 Aspiring Software Developer  
-</p>
+<h1 align="center">👋 Hey there! I'm <span>Kalash Baldota</span></h1>
+<h3 align="center">Ideas in my head, chaos in my code, magic on your screen</h3>
 
 ---
 
 ## 🚀 **About Me**  
 
-🎓 **B.E. in Information Technology**  
-🔥 Passionate about building **efficient and scalable solutions**  
-🌐 Skilled in **web development**, **Android app development**, and **data analysis**  
-🤖 Exploring the exciting world of **AI and automation**  
-🖌️ Tech enthusiast with a creative edge, blending **technology with innovation**  
+- I’m **exploring Networking, DevOps, and Cybersecurity** 🖥️🔒 through academic projects, hands-on labs, and real-world applications.  
+- I’m looking to **collaborate on full-stack projects** 🌐 (**React, Node.js, MongoDB, Express**), **AI/ML integrations** 🤖, and **creative hackathon ideas** 🚀.  
+- I’m seeking help with **scaling AI APIs** ⚡, **optimizing backend performance** 🛠️, and **deployment best practices** (**Docker, CI/CD, Cloud** ☁️).  
+- I’m currently learning **Advanced Data Structures & Algorithms in Java** 📚, **React Native** 📱, and **Generative AI applications** 🎨🤖.  
+- Ask me about **MERN stack development** 💻, **API integrations** 🔗, **AI/ML pipelines** 🧠, and **interactive web experiences** ✨.  
+- **Fun fact:** I make computers do what humans dream 💡💻.
 
 ---
 
-## 💻 **Technical Toolkit**  
-
-### 🌟 Programming Languages  
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
-### 🌟 Web Development  
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-</p>
-
-### 🌟 Data Analysis  
-- Python Libraries: Pandas, NumPy  
-- Power BI  
-
-### 🌟 Android Development  
-- Java | Android Studio  
-
-### 🌟 Version Control  
-- Git | GitHub  
-
-### 🌟 Other
-<p align="left">
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-</p>
-
----
-
-## 🏆 **Highlights of My Work**  
-
-| **Project Name**                              | **Description**                                                                 |
-|-----------------------------------------------|---------------------------------------------------------------------------------|
-| **Postpartum Depression Analyzer**            | Personalized content recommendation system for stress relief.                   |
-| **AI-based Text Processor**                   | AI-powered summarizer, translator, and extractor for seamless text handling.    |
-| **AI-based Multimedia Classification App**    | Android app for classifying images and audio with AI.                           |
-| **Virtual Linked List Representation Website**| A web tool for visually representing linked lists using HTML, CSS, and JS.      |
-| **Interactive Dataset Reports**               | Dynamic, insightful dashboards created using Power BI.                          |
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalash-baldota/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalashbaldota604@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FEA500.svg?logo=react&logoColor=white)](https://kalash-b.github.io/React-Portfolio/)
 
 
 ---
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+---
+
 
 ## 🎨 Fun Fact 
 - 🌟 I believe in merging **creative thinking** with **technical skills** to craft impactful solutions. 
 
 ---
 
-## 📫 **Get in Touch**  
-
-<p align="center">  
-
-<a href="https://www.linkedin.com/in/kalash-baldota-290b43281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kalash-B&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kalash-B&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalash-B&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
