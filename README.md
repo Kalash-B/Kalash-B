@@ -16,7 +16,7 @@
 - 🎓 Final-year **IT student** at PCCOER, Pune (lateral entry) - graduating **2027**
 - 💼 Full Stack Developer with real internship experience shipping **production websites** and **real-time systems**
 - 🧠 Led a 3-member team to build an **ML deepfake classifier** - 78% accuracy, 🥉 **3rd place** at PBL Poster Competition
-- 🚀 Currently exploring **Networking, DevOps & Cybersecurity**, and leveling up in **DSA (Java)**, **React Native**, and **Generative AI**
+- 🚀 Currently exploring **Networking, DevOps & Cybersecurity**, and leveling up in **DSA (C++)**, **React Native**, and **Generative AI**
 - 🌱 Open to collaborating on **MERN stack**, **AI/ML integrations**, and **hackathon projects**
 - ⚡ Fun fact: I make computers do what humans dream 💡
 
