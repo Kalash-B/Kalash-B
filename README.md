@@ -109,13 +109,11 @@ Centralized business analytics dashboard replacing manual reporting; reduced rou
 
 ## 📈 GitHub Stats
 
-<div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Kalash-B&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalash-B&theme=tokyonight&hide_border=true" width="49%"/>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalash-B&layout=compact&theme=tokyonight&hide_border=true" width="49%"/> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalash-B&theme=tokyo-night&hide_border=true" width="49%"/> 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img src="dark.svg" alt="Kalash Baldota">
+</picture>
 
 <br/>
 
