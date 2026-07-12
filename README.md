@@ -59,52 +59,6 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 Deepfake Detection System
-**TensorFlow · OpenCV · Python** - *Team Lead*
-
-Built a binary deepfake classifier with **78% accuracy**, leading a 3-member team from data preprocessing to model evaluation. 🥉 **3rd place**, PBL Poster Competition.
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Real-Time Collaborative Code Editor
-**Node.js · React.js · WebSockets · Docker**
-
-Multi-user code editor with live sync across concurrent sessions, powered by an event-driven backend and fully Dockerized for consistent deployment.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Production Web Projects
-**Next.js · TypeScript · Tailwind · Three.js**
-
-Two **live, actively-used** websites - a robotics event platform and a college GFG chapter site - with 3D visuals, animations, and full SEO optimization.
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Analytics Dashboard *(AP Corporation Internship)*
-**React.js · MySQL · Flask**
-
-Centralized business analytics dashboard replacing manual reporting; reduced routing bugs by ~20% across a Flask-powered backend.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📈 GitHub Stats
-
-
 <div align="center">
 
 ### 💬 Innovation is at the heart of my journey. Let's create something incredible together!
